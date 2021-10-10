@@ -1,0 +1,2 @@
+Hello Phil
+Welcome to frontend development course
