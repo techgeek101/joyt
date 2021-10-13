@@ -1,0 +1,6 @@
+This is a learnung dummy text file. Just using it to learn how to use git
+
+
+Thanks
+Philemon John
+Oct 10th, 2021
